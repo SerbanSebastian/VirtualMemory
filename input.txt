@@ -1,0 +1,25 @@
+6
+create P0 4 pages
+set P0 (0,1) = A
+set P0 (2,3) = B
+destroy P0
+create P1 3 pages
+set P1 (0,0) = C
+set P1 (1,2) = D
+destroy P1
+create P2 5 pages
+set P2 (0,2) = E
+set P2 (3,4) = F
+destroy P2
+create P3 2 pages
+set P3 (0,1) = G
+destroy P3
+create P4 6 pages
+set P4 (0,1) = H
+set P4 (2,3) = I
+set P4 (4,5) = J
+destroy P4
+create P5 3 pages
+set P5 (0,1) = K
+set P5 (2,2) = L
+destroy P5
